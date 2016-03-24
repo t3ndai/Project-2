@@ -1,0 +1,7 @@
+IOS App as Game to Guess Country flags
+Concepts:
+Asset catalogs
+UIButton
+CALayer
+UIColor
+UIAlertController 
